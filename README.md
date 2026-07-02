@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0278-first-bad-version](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -42,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0069-sqrtx/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
