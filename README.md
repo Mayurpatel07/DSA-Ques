@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -70,8 +71,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
