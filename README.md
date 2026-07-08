@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -93,4 +94,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0901-online-stock-span/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
