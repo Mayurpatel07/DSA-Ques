@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +105,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->
