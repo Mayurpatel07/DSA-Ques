@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0901-online-stock-span](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1544-make-the-string-great/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Mayurpatel07/DSA-Ques/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1544-make-the-string-great/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Mayurpatel07/DSA-Ques/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +142,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0844-backspace-string-compare/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Mayurpatel07/DSA-Ques/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 <!---LeetCode Topics End-->
