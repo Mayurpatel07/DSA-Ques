@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0901-online-stock-span/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0844-backspace-string-compare/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
