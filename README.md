@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Binary Search
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0901-online-stock-span](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1544-make-the-string-great/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Mayurpatel07/DSA-Ques/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -144,9 +146,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0844-backspace-string-compare/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Mayurpatel07/DSA-Ques/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
