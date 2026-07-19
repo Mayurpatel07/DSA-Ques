@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0509-fibonacci-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0509-fibonacci-number/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0509-fibonacci-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0509-fibonacci-number/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -173,4 +175,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
