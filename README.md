@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0231-power-of-two/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0070-climbing-stairs](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0509-fibonacci-number/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
@@ -187,5 +189,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
