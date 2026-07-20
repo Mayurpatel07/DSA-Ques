@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0146-lru-cache/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0496-next-greater-element-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Stack
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0146-lru-cache/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
@@ -194,4 +196,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0509-fibonacci-number/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
