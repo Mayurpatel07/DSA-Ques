@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0496-next-greater-element-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Stack
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0146-lru-cache/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0460-lfu-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0460-lfu-cache/) | Hard |
 | [0901-online-stock-span](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -200,8 +202,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0460-lfu-cache/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
