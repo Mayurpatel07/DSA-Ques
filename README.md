@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0070-climbing-stairs/) | Easy |
