@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0912-sort-an-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0169-majority-element/) | Easy |
+| [0912-sort-an-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0912-sort-an-array/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -223,4 +225,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0169-majority-element/) | Easy |
+| [0912-sort-an-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
