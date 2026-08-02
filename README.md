@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0877-stone-game/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0877-stone-game/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -250,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0912-sort-an-array/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
