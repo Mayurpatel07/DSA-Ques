@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0146-lru-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0146-lru-cache/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0460-lfu-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0460-lfu-cache/) | Hard |
