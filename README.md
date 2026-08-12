@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0344-reverse-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0844-backspace-string-compare/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0001-two-sum/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0169-majority-element/) | Easy |
 | [0460-lfu-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0460-lfu-cache/) | Hard |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0146-lru-cache/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -269,4 +272,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
