@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0035-search-insert-position/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0027-remove-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0027-remove-element/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0344-reverse-string/) | Easy |
