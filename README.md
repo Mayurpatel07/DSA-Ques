@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mayurpatel07/DSA-Ques/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
