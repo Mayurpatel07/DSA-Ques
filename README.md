@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0189-rotate-array/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0509-fibonacci-number/) | Easy |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0027-remove-element/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0344-reverse-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0876-middle-of-the-linked-list/) | Easy |
