@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0704-binary-search](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0704-binary-search/) | Easy |
