@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0189-rotate-array/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0877-stone-game/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -115,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0268-missing-number/) | Easy |
 | [0460-lfu-cache](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0496-next-greater-element-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -184,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0268-missing-number/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -194,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0912-sort-an-array/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Simulation
