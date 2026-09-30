@@ -12,4 +12,3 @@ class Solution:
 
             if count[num] > len(nums)//2:
                 return num
-                
