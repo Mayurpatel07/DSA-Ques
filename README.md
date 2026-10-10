@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mayurpatel07/DSA-Ques/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Mayurpatel07/DSA-Ques/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Binary Search
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0344-reverse-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Mayurpatel07/DSA-Ques/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mayurpatel07/DSA-Ques/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Mayurpatel07/DSA-Ques/tree/main/0844-backspace-string-compare/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mayurpatel07/DSA-Ques/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mayurpatel07/DSA-Ques/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Mayurpatel07/DSA-Ques/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Mayurpatel07/DSA-Ques/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
