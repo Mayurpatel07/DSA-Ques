@@ -1,8 +1,12 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        seen ={}
+        seen = {}
         for i,n in enumerate(nums):
-            need = target-n
-            if need in seen :
+            need = target-n 
+            if need in seen:
                 return[seen[need],i]
-            seen[n]=i 
+            else :
+                seen[n]=i
+
+
+
